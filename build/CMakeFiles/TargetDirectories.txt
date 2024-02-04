@@ -1,0 +1,6 @@
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/CMakeFiles/BattleCity.dir
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/gorko/Desktop/Battle_City/Battle_City/build/external/glfw/src/CMakeFiles/update_mappings.dir
